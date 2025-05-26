@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zizhe Zhang (@zhang-zizhe), currently a first year MSE Student in Robotics at Univ. of Penn.
+- 👋 Hi, I’m Zizhe Zhang (@zhang-zizhe), currently a first year MSE Student in Robotics at University of Pennsylvania.
 - 👀 I’m interested in Robotics🤖 and Soccer⚽️
 - 💞️ I’m looking for a fully funded PhD position majoring in Robo/CS/EE/ME/Applied Math in 26 Fall cycle.
 - 📫 How to reach me: zizhez@seas.upenn.edu
